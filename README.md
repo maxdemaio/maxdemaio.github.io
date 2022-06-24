@@ -7,6 +7,4 @@ Welcome to my static GitHub webpage. Below, please find my personal links where 
 - [My website](https://maxdemaio.com/)
 - [GitHub](https://github.com/maxdemaio)
 - [LinkedIn](https://www.linkedin.com/in/maxdemaio)
-- [Twitter](https://twitter.com/maxwelldemaio)
-- [Polywork](https://polywork.com/maxdemaio)
-         
+- [Twitter](https://twitter.com/maxwelldemaio)         
