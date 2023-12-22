@@ -2,10 +2,6 @@
 
 ## My name is Maxwell DeMaio
 
-Welcome to my static GitHub webpage. Below, please find my personal links where you can find me online:
+Welcome to my static GitHub webpage. Feel free to visit [my website](https://maxdemaio.com) to catch up with what I'm up to online!
 
-- [My website](https://maxdemaio.com/)
-- [GitHub](https://github.com/maxdemaio)
-- [LinkedIn](https://www.linkedin.com/in/maxdemaio)
-- [Twitter](https://twitter.com/maxwelldemaio)
-- [YouTube](https://www.youtube.com/channel/UCXzTmvY30ODYPrpVImJEVBQ)
+Or, feel free to check out my [demos](https://maxdemaio.github.io/demos).
